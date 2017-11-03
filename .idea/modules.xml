@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidRoundViewShape.iml" filepath="$PROJECT_DIR$/AndroidRoundViewShape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roundviewshape/roundviewshape.iml" filepath="$PROJECT_DIR$/roundviewshape/roundviewshape.iml" />
+    </modules>
+  </component>
+</project>
